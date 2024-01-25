@@ -1,5 +1,7 @@
-@import "../global/header.css";
 @import "../global/global.css";
+@import "../utilidades/tipografia.css";
+
+@import "../global/header.css";
 
 /* ultilidades */
 @import "../utilidades/component.css";
